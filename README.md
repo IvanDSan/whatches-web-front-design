@@ -1,26 +1,27 @@
-🕒 Web de Relojes
-Esta es una web de relojes responsive desarrollada utilizando solo tecnologías del lado del cliente: HTML, CSS y JavaScript. El objetivo principal es ofrecer una interfaz visual atractiva y funcional para mostrar un catálogo de relojes.
+# 🕒 Web de Relojes
 
-🌐 Tecnologías utilizadas
-HTML5 – Estructura del sitio
+Esta es una **web de relojes responsive** desarrollada utilizando solo tecnologías del lado del cliente: HTML, CSS y JavaScript. El objetivo principal es ofrecer una interfaz visual atractiva y funcional para mostrar un catálogo de relojes.
 
-CSS3 – Estilos y diseño responsive
+## 🌐 Tecnologías utilizadas
 
-JavaScript – Interactividad y lógica de la aplicación
+- **HTML5** – Estructura del sitio
+- **CSS3** – Estilos y diseño responsive
+- **JavaScript** – Interactividad y lógica de la aplicación
 
-📱 Características
-Diseño totalmente responsive, adaptado a móviles, tablets y ordenadores
+## 📱 Características
 
-Catálogo visual de relojes con imágenes, descripciones y precios
+- Diseño totalmente **responsive**, adaptado a móviles, tablets y ordenadores
+- Catálogo visual de relojes con imágenes, descripciones y precios
+- Carrito de compra funcional en el frontend
+- Secciones completas: **Inicio**, **Sobre Nosotros**, **Contacto** y **Catálogo**
+- Navegación fluida entre secciones
+- Interacción dinámica con JavaScript (como filtrado, navegación, etc.)
+- Código organizado y comentado para facilitar su mantenimiento y ampliación
 
-Navegación fluida entre secciones
+## 🚀 Cómo ver el proyecto
 
-Interacción dinámica con JavaScript (como filtrado, navegación, etc.)
-
-Código organizado y comentado para facilitar su mantenimiento y ampliación
-
-🚀 Cómo ver el proyecto
 Puedes abrir el proyecto directamente en tu navegador con el archivo index.html.
+
 
 # Clona el repositorio
 git clone https://github.com/tu-usuario/web-relojes.git
@@ -29,7 +30,9 @@ git clone https://github.com/tu-usuario/web-relojes.git
 cd web-relojes
 open index.html  # o simplemente haz doble clic
 
-🗂️ Estructura del proyecto
+
+## 🗂️ Estructura del proyecto
+
 
 web-relojes/
 ├── index.html
@@ -40,13 +43,14 @@ web-relojes/
 ├── img/
 │   └── (imágenes de los relojes)
 └── README.md
-✨ Próximas mejoras
 
-Integrar carrito de compra (simulado en frontend)
 
-Añadir filtros por categoría o precio
+## ✨ Próximas mejoras (opcional)
 
-Agregar animaciones con CSS o librerías JS
+- Añadir filtros por categoría o precio
+- Agregar animaciones con CSS o librerías JS
+- Validación de formularios de contacto
 
-👨‍💻 Autor
+## 👨‍💻 Autor
+
 Desarrollado por IvanDSan
