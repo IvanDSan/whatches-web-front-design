@@ -20,7 +20,8 @@ Esta es una **web de relojes responsive** desarrollada utilizando solo tecnolog�
 
 ## 🚀 Cómo ver el proyecto
 
-Puedes abrir el proyecto directamente en tu navegador con el archivo index.html.
+Puedes abrir el proyecto directamente en tu navegador con este enlace:
+https://ivandsan.github.io/whatches-web-front-design/
 
 
 # Clona el repositorio
